@@ -17,7 +17,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou me aprimorando em JavaScript, Node.js e React
+- 🌱 Atualmente estou me desenvolvendo em JavaScript, Node.js e React
 - 🚀 Estudante da Universidade Federal Fluminense e Resilia Educação
 - 📫 Meu email: brunaxavier@id.uff.br
 
