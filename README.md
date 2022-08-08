@@ -34,7 +34,7 @@ Estas são algumas das tecnologias e ferramentas que uso:
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,bootstrap,)](https://skillicons.dev)
 
 ### 📚 Vou aprender:
-[![Skills to learn](https://skillicons.dev/icons?i=figma,python,aws,azure)](https://skillicons.dev)
+[![Skills to learn](https://skillicons.dev/icons?i=figma,elixir,aws,azure)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
