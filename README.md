@@ -27,20 +27,16 @@
 
 - 📈 Conseguir experiência na área
 
-### ⚡ Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que uso:
-
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,bootstrap,)](https://skillicons.dev)
-
-### 📚 Vou aprender:
-[![Skills to learn](https://skillicons.dev/icons?i=figma,elixir,aws,azure)](https://skillicons.dev)
+| ⚡ Tecnologias:    |  📚 Vou aprender: |
+| ------------------- | ------------------- |
+|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,wordpress)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=figma,elixir,aws,azure,python)](https://skillicons.dev) |
 
 ### 📈 Minhas Estatísticas
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=bruxvr&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxvr&langs_count=10&count_private=true&hide_border=true&theme=codeSTACKr&layout=compact) |
+| ![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=bruxvr&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxvr&theme=great-gatsby&layout=compact) |
 
 💬 Entre em contato! :)
 
