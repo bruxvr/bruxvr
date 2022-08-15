@@ -30,7 +30,7 @@
 
 | ⚡ Tecnologias:    |  📚 Vou aprender: |
 | ------------------- | ------------------- |
-|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=react,figma,elixir,aws,azure,python)](https://skillicons.dev) |
+|  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,wordpress)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=react,figma,elixir,aws,azure,python)](https://skillicons.dev) |
 
 ### 📈 Minhas Estatísticas
 
